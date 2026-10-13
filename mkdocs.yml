@@ -1,0 +1,25 @@
+site_name: Soldering & Basic Electronics for Mere Mortals
+site_description: Plain-language soldering and electronics guides — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/soldering-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Electronics Is: what-electronics-is.md
+  - Ohm's Law: ohms-law.md
+  - Components: components.md
+  - Reading Resistors: reading-resistors.md
+  - The LED Circuit: led-circuit.md
+  - Soldering: soldering.md
+  - Reading Your Joints: joints.md
+  - Breadboard to Permanent: breadboard-to-permanent.md
+  - The Multimeter: multimeter.md
+  - Power Supplies: power-supplies.md
+  - Safety: safety.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
