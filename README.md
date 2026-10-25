@@ -63,3 +63,19 @@ you need to follow along hands-on.
 
 *Written to the [nine-point writing standard](criteria.md) shared by
 every guide in this series.*
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [Arduino for Mere Mortals](https://paulsullivan33-dev.github.io/arduino-for-mere-mortals/)
+- [KiCad for Mere Mortals](https://paulsullivan33-dev.github.io/kicad-for-mere-mortals/)
+- [Ham Radio for Mere Mortals](https://paulsullivan33-dev.github.io/ham-radio-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/soldering-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/soldering-for-mere-mortals/blob/main/LICENSE-CODE).
